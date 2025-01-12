@@ -10,16 +10,19 @@ Designed and implemented algorithms like SVC and Logistic Regression to analyze 
 Employed advanced preprocessing and feature engineering methods to enhance data quality and model accuracy.
 Conducted thorough model evaluation and validation to ensure robust predictions.
 
-  3.Interdisciplinary Collaboration:
+3. Interdisciplinary Collaboration:
 Partnered with healthcare experts to ensure the predictions aligned with clinical priorities.
 Focused on making the model outcomes both practically relevant and scientifically sound.
 
 Instructions to Run the Project:
 
-1.Open a terminal window.
+1.Open a terminal window.  
+
 2.Navigate to the project directory:
-cd path_to/online_project  
+cd path_to/online_project 
+
 3.Launch Jupyter Notebook to view and manage project files:
 jupyter notebook  
+
 4.Run the Streamlit application by executing the following command:
 streamlit run app.py  
